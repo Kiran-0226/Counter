@@ -36,9 +36,13 @@ body {
     color: red;
 }
 
+.buttons {
+    display: flex;
+    gap: 10px;
+}
+
 .counter button {
     padding: 10px 20px;
-    font-size: 1.5rem;
     background-color: #007BFF;
     color: #fff;
     border: none;
