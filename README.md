@@ -63,7 +63,7 @@ increment.addEventListener('click', () => {
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/counter-project.git
+git clone https://github.com/Kiran-0226/Counter.git
 ```
 
 2. Open the project folder.
